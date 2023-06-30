@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "sedgwick_ranch_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "year": 2020.0, "date": "2020-07-31", "flt_ID": "ang20200731t", "flt_line": "ang20200731t193625", "site_info": "SARP/California COVID-era Methane", "run_ID": "193625", "site_name": "Sedgwick Ranch 2", "nasa_log": "20M045", "investgtr": "Meiying Melissa Martin", "start_lat": 34.8473, "start_lon": -120.052, "stop_lat": 34.2605, "stop_lon": -120.052, "start_gmt": "1936", "stop_gmt": null, "comments": "Alt = 27 kft, ;SOG = 180 kts;Clouds = clear;MCRS = 347", "campaign": "NASA Student Airborne Research Program (SARP)", "camp_info": "SARP/California COVID-era Methane", "state": "California", "country": "United States", "platform": "King Air B200", "instrument": "AVIRIS-NG", "scene_elev": -999.0, "altitude": 8232.0, "speed_grnd": 92.6, "direction": 347.0, "weather": "Clouds = clear", "radiance": "ang20200731t193625_rdn_v2y1_img.bin", "refl_rfl": null, "refl_corr": "ang20200731t193625_corr_v2y1_img.bin", "h2o_absorp": "ang20200731t193625_h2o_v2y1_img.bin", "quicklook": "ang20200731t193625_geo.jpeg" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -120.082052, 34.237253 ], [ -120.112738, 34.855139 ], [ -120.026588, 34.858022 ], [ -119.996541, 34.240146 ], [ -120.082052, 34.237253 ] ] ] ] } }
+]
+}
