@@ -5,9 +5,8 @@ This tutorial shows how to calculate equivalent water thickness or canopy water 
 We will apply a simple fitting of spectral absorption features of liquid water and use scripts available from [ISOFIT package](https://github.com/isofit/isofit/tree/main).
 
 ## Canopy Water Content (CWC)
-First, surface reflectance was derived using the Optimal Estimation-based simultaneous modeling of surface and atmosphere through the ISOFIT codebase. Derived surface reflectance spectra were particularly smooth in water absorption bands and include estimates of per-band posterior uncertainties (Thompson et al. 2018).
 
-The CWS was then derived from surface reflectance by applying a well-validated algorithm based on a physical model (Beer-Lambert model) (Green et al. 2006; Bohn et al. 2020). Of note, this model does not account for multiple scattering effects within the canopy and may result in overestimation of retrieved CWC (Bohn et al. 2020).
+The CWS is derived from surface reflectance by applying a well-validated algorithm based on a physical model (Beer-Lambert model) (Green et al. 2006; Bohn et al. 2020). Of note, this model does not account for multiple scattering effects within the canopy and may result in overestimation of retrieved CWC (Bohn et al. 2020).
 
 
 ## References
